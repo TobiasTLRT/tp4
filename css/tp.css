@@ -1,0 +1,126 @@
+body { width: fit-content ; background-color: bisque;}
+h1   {text-align: center; text-decoration: none ; font-size: xx-large; color: black;}
+p    {text-align: left; font-size: x-large;color: black;}
+h2   {text-align: justify; text-decoration: underline; font-size: x-large; color: blue;}
+.h1  { text-decoration: none; font-size: 1em ;  text-align: center; display: flex; justify-content: center; align-items: center;}
+
+
+
+
+.b{ display: flex;
+justify-content: center;
+align-items: center;
+background-color: black;
+margin:50px;
+width: 350px;
+height: 200px;
+padding: 0px;
+}
+
+
+    
+
+
+.h2  { text-decoration: underline; font-size: smaller; color: darkorange;}
+
+.lo  { font-size: medium; color: black;}
+
+.ld  { font-size: x-large; color: salmon;}
+.lo  { font-size: larger; color: seagreen;}
+.h12 {background-color: darkcyan;  text-align: left; font-size: large;color: black;}
+.h4  {font-size: x-large; color: saddlebrown;}
+.links {font-size: x-large;}
+header { display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 50px;
+    height: 200px;
+    background-color: aqua; 
+    box-sizing: content-box;
+    
+   
+    margin: 30px;
+
+
+text-align: center;
+border: black 30px solid;
+padding: 50px;
+position: static
+
+
+}
+.footer-item_active {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 150px ;
+  
+}
+.footer-item_active2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+    height: 150px;
+
+ 
+}
+.footer-item_active3 {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   height: 150px; ;
+   width: 300px;
+   
+   padding: 10px;
+  
+}
+
+
+
+
+
+
+
+
+.re{background-color: chartreuse;
+
+font-size: medium;
+}
+.hell {font-size: large;
+background-color: bisque;
+padding: 10px;}
+
+main{background-color: brown;}
+.footer-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    
+    background-color: aqua; 
+   
+    height: 200px;
+ 
+    margin: 100px;
+
+    
+    
+    
+    
+    
+    background-color: aquamarine;
+border: black solid;
+padding: 50px;
+}
+section{margin: 40px;}
+
+
+
+
+
